@@ -1,11 +1,11 @@
-Welcome to the Duckietown Pondcleaner documentation
-===================================================
+Welcome to the Duckietown Logic Library documentation
+=====================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   duckietown_pondcleaner/index
+   dt_logic/index
 
 
 Indices and tables

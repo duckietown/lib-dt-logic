@@ -3,9 +3,9 @@ import os
 
 # -- Project information -----------------------------------------------------
 
-project = "Duckietown Pondcleaner"
+project = "Logic"
 copyright = "Duckietown"
-author = "Mack"
+author = "Shengjie Hu"
 
 # -- General configuration ---------------------------------------------------
 

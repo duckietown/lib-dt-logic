@@ -23,3 +23,10 @@ sphinx
 sphinx-rtd-theme
 
 jupyter
+
+networkx
+matplotlib
+numpy
+pillow
+ipython
+ipywidgets
