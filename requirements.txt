@@ -28,5 +28,5 @@ networkx
 matplotlib
 numpy
 pillow
-ipython
+ipython==7.34.0
 ipywidgets
